@@ -16,3 +16,5 @@ https://massoud5.github.io/Cyrus-The-Great-Timline/
 - Use "figure" and "blockquote" element as structure of my HTML document.
 
 - To use the web tools of my navigator to find an idea or a solution for a problem.
+
+- Not forget that my general culture has enriched.
