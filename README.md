@@ -3,7 +3,7 @@
 
 >> A freeCodeCamp.org project to earn the Responsive Web Design certification.
 
->> The live project link:
+>> The live demo project link:
 
 https://massoud5.github.io/Cyrus-The-Great-Timline/
 
